@@ -42,4 +42,6 @@ The app also prints out some useful debug info, such as if it detects a host-cha
 
 For more details, updates, or support, please feel more than free to message me **@e.vee** on discord. This app is very much a work in progress, and the first thing like this I've ever published, so feel free to contribute or provide feedback via GitHub!
 
-Happy gaming, and say HI if you see me in game!!
+Happy TON'ing, and say HI if you see me in game!!
+![yippeee](anotherEevee.jpg)
+![so sleepy zzz](sleebyvee_zzz.jpg)
