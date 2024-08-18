@@ -2,6 +2,11 @@
 
 **TON-Sign** is a cool lil app I made for the VRChat game *Terrors of Nowhere*. This asset uses OSC to display the next round type beside the start button, meaning you should never miss another Alternate round again!
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="VRCPreview.jpg" alt="Thanks to the people who helped me test!" width="350"/>
+  <img src="VRCPreview2.jpg" alt="Preview Photo" width="350"/>
+</div>
+
 ---
 
 ### 🚨 Important Notice 🚨
