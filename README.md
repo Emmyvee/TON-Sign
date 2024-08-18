@@ -44,6 +44,6 @@ For more details, updates, or support, please feel more than free to message me 
 
 Happy TON'ing, and say HI if you see me in game!!
 <div style="display: flex; justify-content: space-around;">
-  <img src="anotherEevee.jpg" alt="yippeee" width="200"/>
-  <img src="sleebyvee_zzz.jpg" alt="so sleepy zzz" width="200"/>
+  <img src="anotherEevee.jpg" alt="yippeee" width="350"/>
+  <img src="sleebyvee_zzz.jpg" alt="so sleepy zzz" width="350"/>
 </div>
