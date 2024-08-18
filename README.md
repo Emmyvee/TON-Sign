@@ -43,5 +43,7 @@ The app also prints out some useful debug info, such as if it detects a host-cha
 For more details, updates, or support, please feel more than free to message me **@e.vee** on discord. This app is very much a work in progress, and the first thing like this I've ever published, so feel free to contribute or provide feedback via GitHub!
 
 Happy TON'ing, and say HI if you see me in game!!
-![yippeee](anotherEevee.jpg)
-![so sleepy zzz](sleebyvee_zzz.jpg)
+<div style="display: flex; justify-content: space-around;">
+  <img src="anotherEevee.jpg" alt="yippeee" width="200"/>
+  <img src="sleebyvee_zzz.jpg" alt="so sleepy zzz" width="200"/>
+</div>
