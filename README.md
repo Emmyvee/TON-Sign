@@ -6,6 +6,7 @@
 
 ### 🚨 Important Notice 🚨
 **This asset uses VRCFury for automatic setup. Please ensure the latest version of VRCFury is installed in your Unity project.**
+[Download VRCFury Here](https://vrcfury.com/download)
 
 ---
 
