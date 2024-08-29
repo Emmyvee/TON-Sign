@@ -9,7 +9,7 @@
 
 ---
 
-# [Download TON sign from the "Releases" page, or click here!](https://github.com/Emmyvee/TON-Sign/releases/tag/v2.0.0)
+# [Download TON sign from the "Releases" page, or click here!](https://github.com/Emmyvee/TON-Sign/releases/tag/v2.1.0)
 
 ### 🚨 Important Notice 🚨
 **This asset uses VRCFury for automatic setup. Please ensure the latest version of VRCFury is installed in your Unity project.**
