@@ -37,7 +37,7 @@ Setting up the TON Sign on your avatar is quick and easy:
 
 ### Running the App
 
-1. **Launch** `TONSign_Classic_or_SpecialV2.exe`.
+1. **Launch** `TONSign_Classic_or_SpecialV2.2.exe`.
 2. **Start some rounds in Terrors of Nowhere.** 
    - The app will handle the rest!
 
