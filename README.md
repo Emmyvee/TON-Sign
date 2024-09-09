@@ -9,7 +9,7 @@
 
 ---
 
-# [Download TON sign from the "Releases" page, or click here!](https://github.com/Emmyvee/TON-Sign/releases/tag/v2.2.0)
+# [Download TON sign from the "Releases" page, or click here!](https://github.com/Emmyvee/TON-Sign/releases/tag/v2.2.1) (NEW JP SUPPORT!)
 
 ### 🚨 Important Notice 🚨
 **This asset uses VRCFury for automatic setup. Please ensure the latest version of VRCFury is installed in your Unity project.**
@@ -37,7 +37,7 @@ Setting up the TON Sign on your avatar is quick and easy:
 
 ### Running the App
 
-1. **Launch** `TONSign_Classic_or_SpecialV2.2.exe`.
+1. **Launch** `TONSign_Classic_or_SpecialV2.2.exe` OR `TONSign_JP_V2.2.exe` for JP!
 2. **Start some rounds in Terrors of Nowhere.** 
    - The app will handle the rest!
 
