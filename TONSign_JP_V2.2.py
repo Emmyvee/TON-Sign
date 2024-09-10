@@ -81,7 +81,7 @@ def monitor_round_types(log_file, known_round_types, osc_client):
                     print("テラーナイト! パターンを修正する...\n.\n.\n.\nOK! // 準備オーケー :3\n===================")
 
                 if "OnMasterClientSwitched" in line:
-                    print("***\n*** 司会者が去った。次回は特殊ラウンドとなる。\n***")
+                    print("***\n*** ホストが去った、次回は特殊ラウンドとなる。\n***")
                     osc_client.send_message("/avatar/parameters/TON_Sign", True)
 
                 if "Round type is" in line:
